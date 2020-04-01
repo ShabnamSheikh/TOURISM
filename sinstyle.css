@@ -1,0 +1,21 @@
+
+.login {
+    box-sizing: inherit;
+    text-align: center;
+    font-size: 20px;
+    float: inherit;
+   border: 10px floralwhite;
+   background-color: floralwhite;
+    height: 40em;
+    margin-top: 30px;
+    margin-right: 20px;
+
+}
+
+.login #login-button {
+    width: 13%;
+    height:2em;
+    
+    background-color:rgb(73, 134, 212);
+    
+}
